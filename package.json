@@ -20,7 +20,7 @@
     "url": "http://www.opensource.org/licenses/MIT"
   },
   "dependencies": {
-    "jsonwebtoken": "^5.0",
+    "jsonwebtoken": "^7.0",
     "passport-http-bearer": "^1.0.1"
   },
   "devDependencies": {
